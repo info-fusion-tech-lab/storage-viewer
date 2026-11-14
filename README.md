@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![PyPI](https://img.shields.io/badge/pypi-v1.0.0-orange)
+![PyPI](https://img.shields.io/badge/pypi-v1.0.1-orange)
 
 A powerful, feature-rich directory tree visualizer with advanced filtering options for the command line.
 

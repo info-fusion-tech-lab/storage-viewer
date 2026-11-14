@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "storage-viewer"
-version = "1.0.0"
+version = "1.0.1"
 description = "Advanced directory tree visualizer with filtering options"
 readme = "README.md"
 requires-python = ">=3.7"
@@ -20,6 +20,10 @@ classifiers = [
 
 [project.scripts]
 stree = "SourceCode.main:main"
+
+[project.urls]
+Homepage = "https://github.com/info-fusion-tech-lab/storage-viewer"
+Repository = "https://github.com/info-fusion-tech-lab/storage-viewer"
 
 [tool.setuptools]
 packages = ["SourceCode"]

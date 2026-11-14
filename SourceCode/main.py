@@ -5,7 +5,7 @@ import argparse
 from pathlib import Path
 import fnmatch
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 class DirectoryTree:
     def __init__(self):
