@@ -17,6 +17,12 @@ A powerful, feature-rich directory tree visualizer with advanced filtering optio
 - **Statistics** — Summaries of directories and files
 - **Fast and lightweight** — No external dependencies
 
+## Installation
+
+```
+pip install storage-viewer
+```
+
 ## Basic usage
 
 View a directory tree:
